@@ -4,6 +4,9 @@ A project for the Ddmurth Council of Atoms and Atom­Related Paraphernalia, to d
 ### Some Features
 
   - Methods can be accessed via REST
+```sh
+http://{server}/rest.periodictable-1.0/rest/periodictable/validate/{element}/{symbol}
+```
 
 ### Whats not there
 
